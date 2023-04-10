@@ -1,5 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        int cont = 0;
+        while(cont<10){
+     System.out.println("contador = " + cont);
+     cont = cont + 1;
+
     }
+    }
+
+
 }
